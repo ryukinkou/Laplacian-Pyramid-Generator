@@ -1,0 +1,1 @@
+Generate( '.\TrainingSet\','png',0.375,3 );
